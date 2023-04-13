@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12754946692",
+    "project_id": "saviya-1e2e1",
+    "storage_bucket": "saviya-1e2e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12754946692:android:11447fc7cbb13f9ecb90d1",
+        "android_client_info": {
+          "package_name": "com.example.saviya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12754946692-nc52apnj0outdu9pm72clbs3j7le5bmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3uSTHkwaYuZtQCjroNg0t2_sHhityLzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12754946692-nc52apnj0outdu9pm72clbs3j7le5bmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
